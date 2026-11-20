@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 117,
+    "left": 0,
+    "width": 1030,
+    "height": 1373,
+    "isRotated": true,
+    "originalWidth": 1030,
+    "originalHeight": 1589
+  },
+  "imagePath": "image-targets/dinoVisi_luminance.png",
+  "metadata": null,
+  "name": "dinoVisi",
+  "resources": {
+    "originalImage": "dinoVisi_original.png",
+    "croppedImage": "dinoVisi_cropped.png",
+    "thumbnailImage": "dinoVisi_thumbnail.png",
+    "luminanceImage": "dinoVisi_luminance.png"
+  },
+  "created": 1795190425849,
+  "updated": 1795190434914
+}
